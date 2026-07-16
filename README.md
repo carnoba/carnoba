@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_The_Future-blueviolet?style=flat-square" alt="Status">
   <img src="https://img.shields.io/github/followers/carnoba?label=Followers&style=flat-square&color=00F0FF" alt="Followers">
-  <img src="https://profile-counter.glitch.me/carnoba/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -42,8 +41,8 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
     </td>
     <td width="50%">
       <img src="https://img.shields.io/badge/Cyber_Security-💀-red?style=for-the-badge" /><br />
-      • <b>OS & Env:</b> Kali Linux, Linux Terminal Mastering<br />
-      • <b>Core Skills:</b> Scripting, Network Vulnerability, Automation Hacking<br />
+      • <b>OS & Env:</b> Kali Linux<br />
+      • <b>Core Skills:</b> Scripting, Network Vulnerability, Automation Hacking And Open source intelligence (OSINT)<br />
       • <b>Mindset:</b> Offensive Security, System Hardening, Power Dialer Architecture
     </td>
   </tr>
@@ -102,4 +101,3 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 ## 🤝 Connect & Collaborate
 * 📧 **Email:** [carnoba9@gmail.com](mailto:carnoba9@gmail.com)
 * 📸 **Instagram:** [@im_syedharis](https://www.instagram.com/im_syedharis)
-* 🐙 **GitHub:** [github.com/carnoba](https://github.com/carnoba)
