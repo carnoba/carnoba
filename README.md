@@ -84,7 +84,7 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 
 ---
 
-## ⚡ VIP Premium Stats & Streak Cards
+## ⚡ Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carnoba&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
