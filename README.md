@@ -21,9 +21,9 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
   <tr>
     <td width="50%">
       <img src="https://img.shields.io/badge/Data_Science_%26_AI-🔥-orange?style=for-the-badge" /><br />
-      • <b>Languages:</b> Python, R, SQL, Bash<br />
+      • <b>Languages:</b> Python, SQL, Bash<br />
       • <b>Frameworks:</b> PySpark, XGBoost, Scikit-Learn, ARIMA, Prophet<br />
-      • <b>Libraries:</b> Pandas, NumPy, Matplotlib, Seaborn
+      • <b>Libraries:</b> Pandas, NumPy, Matplotlib, Seaborn, Plotly
     </td>
     <td width="50%">
       <img src="https://img.shields.io/badge/Full_Stack_%26_Cloud-🌐-blue?style=for-the-badge" /><br />
@@ -81,7 +81,7 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 * 📈 **Data Science & Analytics** – *HP LIFE Foundation*
 * 🐍 **Python 101 for Data Science** – *IBM / Cognitive Class*
 * ☁️ **Cloud Practitioner Essentials** – *AWS (Ongoing)*
-* 📊 **Investment Banking Manager** – * Bank of America (Forage Job Experiance)*
+* 📊 **Investment Banking Virtual Experience** – *Bank of America (Forage)*
 
 ---
 
