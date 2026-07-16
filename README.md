@@ -27,8 +27,8 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
     </td>
     <td width="50%">
       <img src="https://img.shields.io/badge/Full_Stack_%26_Cloud-🌐-blue?style=for-the-badge" /><br />
-      • <b>Frontend/Backend:</b> JavaScript, Tailwind CSS, HTML5, Streamlit<br />
-      • <b>Cloud & DevOps:</b> AWS (Cloud Practitioner), Git, Docker, Render, Vercel<br />
+      • <b>Frontend/Backend:</b> JavaScript, Tailwind CSS, HTML5, Streamlit, React, Typescript<br />
+      • <b>Cloud & DevOps:</b> AWS, Git, Docker, Render, Vercel, Netlify<br />
       • <b>Tools:</b> VS Code, Cline, Hugging Face Spaces
     </td>
   </tr>
@@ -81,6 +81,7 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 * 📈 **Data Science & Analytics** – *HP LIFE Foundation*
 * 🐍 **Python 101 for Data Science** – *IBM / Cognitive Class*
 * ☁️ **Cloud Practitioner Essentials** – *AWS (Ongoing)*
+* 📊 **Investment Banking Manager** – * Bank of America (Forage Job Experiance)*
 
 ---
 
