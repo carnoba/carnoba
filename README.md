@@ -101,3 +101,5 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 ## 🤝 Connect & Collaborate
 * 📧 **Email:** [carnoba9@gmail.com](mailto:carnoba9@gmail.com)
 * 📸 **Instagram:** [@im_syedharis](https://www.instagram.com/im_syedharis)
+* 📜 **linkedin:** [syed Haris](https://www.linkedin.com/in/syed-haris-641b353a7)
+
