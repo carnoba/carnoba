@@ -79,10 +79,12 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 * 🧠 **Basics in Machine Learning** – *UniAthena (in partnership with Cambridge International Qualifications, UK)*
 * 🤖 **Prompt Engineering for Everyone** – *IBM Skills Network / Cognitive Class*
 * 📈 **Data Science & Analytics** – *HP LIFE Foundation*
-* 🐍 **Python 101 for Data Science** – *IBM / Cognitive Class*
+* 🐍 **Python 101** – *IBM / Cognitive Class*
 * ☁️ **Cloud Practitioner Essentials** – *AWS (Ongoing)*
 * 📊 **Investment Banking Virtual Experience** – *Bank of America (Forage)*
-
+• **Building RAG Apps Using MongoDB** – MongoDB University 
+• **Introduction To Bookkeeping & Accounting** – The Open Learn University (UK)
+• **Python For Data Science** – IBM / Cognitive Class 
 ---
 
 ## ⚡ Stats & Streak
