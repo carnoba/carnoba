@@ -82,8 +82,8 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 * 🐍 **Python 101** – *IBM / Cognitive Class*
 * ☁️ **Cloud Practitioner Essentials** – *AWS (Ongoing)*
 * 📊 **Investment Banking Virtual Experience** – *Bank of America (Forage)*
-• **Building RAG Apps Using MongoDB** – MongoDB University 
-• **Introduction To Bookkeeping & Accounting** – The Open Learn University (UK)
+• **Building RAG Apps Using MongoDB** – MongoDB University                                                                
+• **Introduction To Bookkeeping & Accounting** – The Open Learn University (UK)                                            
 • **Python For Data Science** – IBM / Cognitive Class 
 ---
 
