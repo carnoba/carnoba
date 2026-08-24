@@ -12,6 +12,8 @@
 
 ## 🌌 About Me
 I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automation Engineer** with deep interests in **Quantitative Finance/Trading** and **Cyber Security**. I specialize in building large-scale data pipelines, training predictive machine learning models, Full stack Web Apps ans Bots.
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carnoba&show_icons=true&theme=tokyonight)
 ---
 
