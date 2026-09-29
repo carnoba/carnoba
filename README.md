@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_The_Future-blueviolet?style=flat-square" alt="Status">
   <img src="https://img.shields.io/github/followers/carnoba?label=Followers&style=flat-square&color=00F0FF" alt="Followers">
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23036631.svg)](https://doi.org/10.5281/zenodo.23036631)
 </p>
 
 ---
