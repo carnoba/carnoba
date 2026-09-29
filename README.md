@@ -1,4 +1,6 @@
 <!-- HEADER ANIMATION -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23036631.svg)](https://doi.org/10.5281/zenodo.23036631)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Syed+Muhammad+Haris+;Data+Scientist+%26+AI+Automation+Engineer;Full-Stack+Developer+%26+Quant+Trader;Cyber+Security+%26+Penetration+Tester" alt="Typing SVG" />
 </p>
