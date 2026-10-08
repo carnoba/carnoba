@@ -65,10 +65,6 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 * **Data Engineering:** Processed and cleaned a massive dataset of **400,000+ transaction records**, implementing log transformations and standard scaling to handle high-variance e-commerce data.
 * **Visual Intelligence:** Created advanced **3D spatial plots** and snake plots to effectively communicate complex segment behaviors to non-technical stakeholders.
 
-### 💻 Independent Data Consultant & Developer | **Freelance** *(2025 — Present)*
-* Deliver custom data pipelines, interactive dashboards, and automation tools for international clients, reducing operational overhead by up to **30%**.
-* Rapid-prototype machine learning models and full-stack web applications within **48–72 hours** for business validation and proof-of-concept demonstrations.
-
 ### 🧪 Founder & Operations Lead | **Chemical Manufacturing Venture** *(2020 — 2025)*
 * Led end-to-end business operations including R&D, formulation, costing, and supply chain management, applying data-driven cost analysis in Excel to optimize profit margins.
 * Managed B2B sales, inventory distribution, and vendor negotiations using financial modeling skills.
