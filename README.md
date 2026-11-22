@@ -111,4 +111,5 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 *  **X:** [syed Haris](https://x.com/Real_carnoba)
 *  **Hugging Face:** [syed Haris](https://huggingface.co/carnoba)
 *  **Discord**: carnoba#3618
+*  **Kaggle**: [syed Haris](https://www.kaggle.com/syeharis)
 
