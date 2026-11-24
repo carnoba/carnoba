@@ -109,7 +109,7 @@ I am a multi-disciplinary **Data Scientist, Full-Stack Developer, and AI Automat
 *  **Portfolio:** [Syed Muhammad Haris](https://carnoba.github.io/)
 *  **Email:** [carnoba9@gmail.com](mailto:carnoba9@gmail.com)
 *  **Instagram:** [@im_syedharis](https://www.instagram.com/im_syedharis)
-*  **linkedin:** [syed Haris](https://www.linkedin.com/in/carnoba)
+*  **linkedin:** [syed Muhamamad Haris](https://www.linkedin.com/in/carnoba)
 *  **X:** [syed Haris](https://x.com/Real_carnoba)
 *  **Hugging Face:** [syed Haris](https://huggingface.co/carnoba)
 *  **Discord**: carnoba#3618
